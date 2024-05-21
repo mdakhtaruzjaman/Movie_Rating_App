@@ -1,0 +1,45 @@
+[
+  {
+    "movieId": 1,
+    "title": "Inception",
+    "year": 2010,
+    "genre": "Sci-Fi",
+    "summary": "A mind-bending thriller",
+    "ratings": [
+      {
+        "email": "user1@example.com",
+        "score": 9
+      },
+      {
+        "email": "user2@example.com",
+        "score": 8
+      }
+    ]
+  },
+  {
+    "movieId": 2,
+    "title": "Amélie",
+    "year": 2001,
+    "genre": "Romantic Comedy",
+    "summary": "A quirky French girl helps those around her",
+    "ratings": [
+      {
+        "email": "user3@example.com",
+        "score": 9
+      }
+    ]
+  },
+  {
+    "movieId": 3,
+    "title": "3 Idiots",
+    "year": 2009,
+    "genre": "Comedy",
+    "summary": "A mind-blowing comedy movie",
+    "ratings": [
+      {
+        "email": "user4@example.com",
+        "score": 10
+      }
+    ]
+  }
+]
